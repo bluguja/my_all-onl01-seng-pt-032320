@@ -9,3 +9,12 @@ def my_all?(collection)
   end
 
 end
+
+
+  if 
+    block_return_values.include?(false)
+      false
+    else
+      true 
+    end
+  end
